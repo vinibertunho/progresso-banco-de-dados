@@ -22,6 +22,4 @@ INSERT INTO ARTIST (NAME, TIPO, MEMBROS, GENERO_MUSICAL, NACIONALIDADE, ANO_DE_I
 ('akon', 'cantor solo', NULL, 'r&b', 'americana', 2004, 'lonely', TRUE),
 ('chief keef', 'cantor solo', NULL, 'rap', 'americana', 2011, 'I don\t like', TRUE);
 
-SELECT * FROM ARTIST;
 
-SELECT COUNT(*) AS TOTAL_ARTISTAS FROM ARTIST;
